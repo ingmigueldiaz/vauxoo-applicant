@@ -1,5 +1,5 @@
-#! /usr/bin/env python2.7
 """
+
 Module that determines sum total of the items in a list
 """
 
